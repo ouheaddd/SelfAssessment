@@ -2,7 +2,7 @@
  👂 heard, 🎓 known, 🖐️ used, 🙋 explained, 📢 talked, 🔬 researched, 🚀 constructed
 
 - Language
-  - Object 🖐️ used
+  - Object 🙋 explained
   - this 🖐️ used
   - arrow function 🖐️ used
   - async function 🎓 known
@@ -12,14 +12,14 @@
   - instanceof🎓 known
   - ...spread🎓 known
   - ...rest🎓 known
-  - typeof 🖐️ used
+  - typeof 🙋 explained
   - destructuring 🖐️ used
   - generator🖐️ used
   - iterator🖐️ used
-  - async generator🖐️ used
-  - async iterator🖐️ used
+  - async generator🙋 explained
+  - async iterator🙋 explained
   - chaining🖐️ used
-  - optional chaining🖐️ used
+  - optional chaining🙋 explained
   - IIFE🎓 known
   - global🎓 known
   - globalThis🖐️ used
@@ -42,12 +42,12 @@
   - Symbol🖐️ used
   - Reflect 🖐️ used
 - Statements
-  - if🖐️ used
-  - while🖐️ used
-  - do..while🖐️ used
-  - for 🖐️ used
-  - for..in🖐️ used
-  - for..of🖐️ used
+  - if🙋 explained
+  - while🙋 explained
+  - do..while🙋 explained
+  - for 🙋 explained
+  - for..in🙋 explained
+  - for..of🙋 explained
   - for await🖐️ used
   - throw🖐️ used
   - break🖐️ used

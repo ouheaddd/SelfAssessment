@@ -63,25 +63,25 @@
   - collection
   - set
   - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
+  - linked list🎓 known
+  - doubly list🎓 known
+  - unrolled list🎓 known
+  - circular list🎓 known
+  - queue🎓 known
+  - stack🎓 known
+  - deque🎓 known
+  - tree🎓 known
+  - graph🎓 known
+  - iterator🎓 known
+  - mutable state🎓 known
+  - immutable state🎓 known
+  - serialization🎓 known
+  - string parsing🎓 known
 - Process & style
   - compiler🖐️ used
   - transpiler
-  - linter
-  - polyfill
+  - linter🎓 known
+  - polyfill🎓 known
   - debugger🖐️ used
   - garbage collection
   - refactoring🖐️ used
@@ -93,14 +93,14 @@
   - hardcode
   - complexity
   - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
-  - unittest
+  - spaghetti🎓 known
+  - silver bullet🎓 known
+  - not invented here🎓 known
+  - dead code🎓 known
+  - unreachable code🎓 known
+  - duplicate code🎓 known
+  - exception🎓 known
+  - return early🎓 known
+  - unittest🎓 known
   - git🖐️ used
   - github🖐️ used

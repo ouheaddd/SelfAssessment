@@ -5,47 +5,47 @@
   - Event loop 🖐️ used
   - try..catch 🖐️ used
   - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Async I/O🖐️ used
+  - Thread pool🖐️ used
   - Pattern Reactor 👂 heard
-  - CAS operations 👂 heard
-  - epoll
-  - kqueue 
-  - Completion ports
+  - CAS operations 🖐️ used
+  - epoll🖐️ used
+  - kqueue 🖐️ used
+  - Completion ports🖐️ used
   - Event ports 🎓 known
-  - libuv
+  - libuv🖐️ used
   - Race conditions 🎓 known
   - Dead locks 🖐️ used
-  - Live locks
+  - Live locks 🖐️ used
   - Concurrent programming 🖐️ used
   - Parallel programming 🖐️ used
-  - Actor Model
+  - Actor Model 🎓 known
   - Thread 👂 heard
-  - Process  
+  - Process  🎓 known
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
+  - Callbacks🎓 known
+  - Callback-last-error-first🎓 known
   - Thenable🎓 known
   - Promise👂 heard
   - Async/await
-  - Future
+  - Future🎓 known
   - Deferred 🎓 known
-  - Sync generator
-  - Async Generator
+  - Sync generator🎓 known
+  - Async Generator🎓 known
   - Async Iterator 🎓 known
   - Event 👂 heard
-  - Coroutine
-  - Goroutine
+  - Coroutine🎓 known
+  - Goroutine🎓 known
   - Signal 🎓 known
-  - Stream
-  - Chain of responsibility
-  - Middleware
+  - Stream🎓 known
+  - Chain of responsibility🎓 known
+  - Middleware🎓 known
   - Locks👂 heard
 - Async adapters and utils
-  - callbackify
+  - callbackify🎓 known
   - promisify 👂 heard
   - asyncify 👂 heard
-  - callbacks compose
+  - callbacks compose🎓 known
   - async compose 👂 heard
 - Async abstractions interfaces
   - EventEmitter 🎓 known
@@ -74,23 +74,23 @@
   - Callback hell 🎓 known
   - Promise hell
   - ref() and unref() 🎓 known
-  - Error handling in async code
-  - Better stack traces with return await
-  - JSON: streaming serialization
-  - promisify
-  - callbackify
+  - Error handling in async code🎓 known
+  - Better stack traces with return await🎓 known
+  - JSON: streaming serialization🎓 known
+  - promisify🎓 known
+  - callbackify🎓 known
   - AsyncLocalStorage 🎓 known
   - AsyncResource 🎓 known
 - Techniques
   - async.js library 👂 heard
   - RxJS library 👂 heard
   - Async composition 👂 heard
-  - Promise.all 
-  - Promise.allSettled 
-  - Promise.race 
-  - Promise.any 
+  - Promise.all 🎓 known
+  - Promise.allSettled 🎓 known
+  - Promise.race 🎓 known
+  - Promise.any 🎓 known
   - Web Locks API 👂 heard
-  - IPC
+  - IPC 🎓 known
   - Channel API👂 heard
   - Revealing Constructor
   - Web Locks API 👂 heard
